@@ -196,7 +196,7 @@ export default function Cv() {
         Wimonsiri Deesan, a 3-year Software Engineering student at the University of Phayao. I am currently seeking an internship opportunity in the areas of Software Testing / QA Testing, UX/UI Design, or Business Analysis between November 2025 and March 2026.
       </p>
       <a
-        href="/WimonsiriDeesanResume2025.pdf"
+        href="/Wimonsiri_Deesan_Resume_2025.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-red-700 text-white px-6 py-2 rounded-md shadow-md hover:bg-red-400 mt-6 inline-block"
